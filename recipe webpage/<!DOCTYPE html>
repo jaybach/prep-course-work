@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		<script src="script.js"></script>
+		<title>Reverse MOAT</title>
+	</head>
+
+	<body>
+		<section>
+			<h1><u>Food for the Anti-Cook</u></h1>
+			<div id="togglePics">Hide Pictures</div>
+			<h2>The Reverse <span>MOAT</span></h2>
+		</section>
+		
+		<h3>Ingredients</h3>
+		<div id="ingredients">
+		<ul>
+			<li class="ing-list"><span><strong>T</strong></span>omato,</li>
+			<li class="ing-list"><span><strong>A</strong></span>vocado,</li>
+			<li class="ing-list"><span><strong>O</strong></span>lives, pitted (Kalamata recommended),</li>
+			<li class="ing-list"><span><strong>M</strong></span>ustard (any kind),</li>
+			<li class="ing-list">and <span><em>bread</em></span>!</li>
+		</ul>
+		</div>
+
+		<h3>Directions</h3>
+		<div id="directions">
+			<ol>
+				<p>1. First you'll need the <span><em>bread</em></span>.  Fresh baked bread is best.  Cut it open (the long way) so you can put the other ingredients inside.</p>
+				<img class="ing-pic" src="http://i.istockimg.com/file_thumbview_approve/17111266/5/stock-photo-17111266-bread.jpg"/></a>
+				
+				<p>2. Next comes the <span><strong>tomato</strong></span>.  Slice up the tomato and put the slices on the bottom part of the bread.  (Note:  Depending on the size of the tomato, you may not need all of it.)</p>
+				<img class="ing-pic" src="http://i.istockimg.com/file_thumbview_approve/36747568/6/stock-photo-36747568-slices-of-fresh-tomato-with-basil-isolated-on-white.jpg"/>
+
+				<p>3. Now for the <span><strong>avocado</strong></span>.  Again it depends on the size, but you'll probably only need about half an avocado.  Cut it into slices lengthwise and put them on top of the tomato slices.</p>
+				<img class="ing-pic" src="http://thumb9.shutterstock.com/display_pic_with_logo/55194/146681096/stock-photo-sliced-avocado-on-a-cutting-board-146681096.jpg">
+
+				<p>4. <span><strong>Olive</strong></span> time!  I personally recommend Kalamata olives, but feel free to choose your favorite kind - or use multiple kinds!  Regardless of the kind of olive you use, slice each olive in half the long way and add the slices on top of the avocado.</p>
+				<img class="ing-pic" src="http://us.cdn1.123rf.com/168nwm/stockfood/stockfood1409/stockfood140900144/31223811-six-kalamata-olives.jpg">
+
+				
+				<p>5. Almost done!  It's time for the <span><strong>mustard</strong></span>.  I recommend brown mustard, but use whatever kind you prefer.  Add as much or as little as you'd like on top of the olives.</p>
+				<img class="ing-pic" src="http://thumb1.shutterstock.com/display_pic_with_logo/350587/167525474/stock-photo-mustard-sauce-on-a-white-background-167525474.jpg">
+
+				<p>6. <span2>Eat!</span2></p><img id="eating-pic" src="http://orig05.deviantart.net/794b/f/2010/189/4/6/wakko_2_by_loneold.png">
+			</ol>
+		</div>
+			
+	</body>
+
+
+
+		
